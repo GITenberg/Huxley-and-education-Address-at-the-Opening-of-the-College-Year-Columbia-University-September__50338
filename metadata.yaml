@@ -1,4 +1,8 @@
 _repo: Huxley-and-education-Address-at-the-Opening-of-the-College-Year-Columbia-University-September__50338
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50338-h/images/cover.jpg
 creator:
   author:
     agent_name: Osborn, Henry Fairfield
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31561
     wikipedia: http://en.wikipedia.org/wiki/Henry_Fairfield_Osborn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50338#Huxley-and-education-Address-at-the-Opening-of-the-College-Year-Columbia-University-September_
 gutenberg_issued: '2015-10-29'
 gutenberg_type: Text
 identifiers:
